@@ -30,7 +30,7 @@ git clone  https://github.com/DilshadNoshad/Blank.css.git
 # Admin logo
 
 <p align="center">
-<img src="img/admin-logo.png" width="150">
+<img src="img/admin-logo.png"  width="150" style="border-radius: 50%;">
 </p>
 
 <br>
