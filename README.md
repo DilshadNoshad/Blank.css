@@ -30,7 +30,7 @@ git clone  https://github.com/DilshadNoshad/Blank.css.git
 # Admin logo
 
 <p align="center">
-<a href="https://www.facebook.com/dilshad.noshad.7"><img src="img/admin-logo.png"   height="auto" width="150" style="border-radius:50%"></a>
+<a href="https://www.facebook.com/dilshad.noshad.7"><img src="img/o-admin-logo.png" width="150"></a>
 </p>
 
 <br>
