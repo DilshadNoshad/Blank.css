@@ -38,24 +38,3 @@ h5,
 h6 {
   font-family: "Poppins", sans-serif;
 }
-
-/* basic media query breakpoints */
-/* footer Media Query */
-
-@media screen and (max-width: 1170px) {
-}
-
-/* Mobile */
-
-@media screen and (min-width: 320px) and (max-width: 480px) {
-}
-
-/* Ipads and Tablets */
-
-@media screen and (min-width: 481px) and (max-width: 768px) {
-}
-
-/* small screens and laptops */
-
-@media screen and (min-width: 769px) and (max-width: 1024px) {
-}
