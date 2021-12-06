@@ -4,11 +4,14 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
 
 /* CSS Reset */
+html {
+    box-sizing: border-box;
+}
 
-* {
+*, *::before, *::after {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
   font-family: "Open Sans", sans-serif;
   scroll-behavior: smooth;
   box-sizing: border-box;
@@ -26,6 +29,13 @@
   --clr-light: #ffff;
   --clr-white-smoke: #ebebeb;
   --clr-secondary-light: #292929;
+}
+
+body {
+  padding: 0;
+  border: 0;
+  font-family: "Open Sans", sans-serif;
+  background: var(--clr-light);
 }
 
 /* heading constant font family */
