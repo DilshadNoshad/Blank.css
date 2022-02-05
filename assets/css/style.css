@@ -14,7 +14,6 @@ html {
   box-sizing: inherit;
   font-family: "Open Sans", sans-serif;
   scroll-behavior: smooth;
-  box-sizing: border-box;
 }
 
 :root {
